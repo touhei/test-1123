@@ -6,3 +6,7 @@ def test():
 
     print("main test")
     print("Test")
+
+
+    test = 1 + 2 + 3 + 4
+    
