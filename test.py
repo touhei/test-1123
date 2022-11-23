@@ -5,3 +5,4 @@ def test():
     print("Branch02")
 
     print("main test")
+    print("Test")
